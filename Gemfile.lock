@@ -1,0 +1,19 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    gosu (1.4.6)
+    minigl (2.5.3)
+      gosu (>= 0.11, < 2.0)
+    orange_zest (0.2.0)
+      gosu
+
+PLATFORMS
+  x64-mingw-ucrt
+
+DEPENDENCIES
+  gosu
+  minigl
+  orange_zest
+
+BUNDLED WITH
+   2.5.11
